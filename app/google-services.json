@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675787419229",
+    "firebase_url": "https://scanify-2020.firebaseio.com",
+    "project_id": "scanify-2020",
+    "storage_bucket": "scanify-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675787419229:android:fb961e98cc428feeab67b4",
+        "android_client_info": {
+          "package_name": "com.majorproject.scanify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675787419229-4q1ae0bvc9n7ggpm1cvl88i98pfi4on7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.smallacademy.authenticatorapp",
+            "certificate_hash": "db377ea4efa515deaea098586c0ea42303d37220"
+          }
+        },
+        {
+          "client_id": "675787419229-1rbn7t7sslb0le22i8s39qre8qm0i2tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz7SmspBOUGD1KCPOw8lcVLGoznYwquqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675787419229-1rbn7t7sslb0le22i8s39qre8qm0i2tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
